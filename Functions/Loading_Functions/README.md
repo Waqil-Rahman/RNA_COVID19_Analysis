@@ -1,4 +1,4 @@
-#Loading Data from text file
+# Loading Data from text file
 
 Load the virus' genome DNA code (the virus sequence). 
 We define a function that takes a string and converts it into a list of characters.
