@@ -8,4 +8,5 @@ Subsequently, open the file sequence.txt.
 - Read and load the data of the file in a string variable called str1. 
 - Remove any newline characters from str1.
 - Store the resulting string in a list of characters called str2.
+
 As a result, the elements of str2 should be the letters of the sequence and from now on we will refer to str2 as the virus sequence.
