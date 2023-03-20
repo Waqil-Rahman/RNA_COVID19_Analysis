@@ -5,7 +5,7 @@ This project is an investigation on the genetic structure of SARS-CoV-2, the cor
 
 So what is this? DNA stands for desoxyribonucleic acid. SARS-CoV-2 coronavirus is what is called a RNA (ribonucleic acid) virus, meaning that the genetic material of the virus is essentially simply a single strand of RNA, i.e. a long RNA chain. Both DNA and RNA are assembled as a chain of 'nucleotides', organic molecules which usually are symbolized as letters: Adenine ('A'), Cytosine ('C'), Guanine ('G'), Thymine ('T') (in RNA Uracil 'U' is found instead of Thymine). A sequence of nucleotides is therefore a sequence of letters, for instance CATCGATCAGTAGAGTTTAC... In a nutshell, the genetic material of the virus can be described as a long sequence of these four letters.
 
-The story is more intricate, this is a project on computational virology in collabartion with Bart's and The London School of Medicine and Dentistry.
+The story is more intricate, this is a project on computational virology in collabartion with [Bart's and The London School of Medicine and Dentistry](https://www.qmul.ac.uk/fmd/).
 
  The starting point of the project is to consider a DNA sequence. For those of you that don't have any interest in genetics, you can simply assume that the starting point is to consider a very long sequence of letters, where each letter is extracted from an alphabet of four letters (A,C,G,T).
  
